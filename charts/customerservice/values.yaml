@@ -13,6 +13,7 @@ image:
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
+databaseSecretName: "dbnorthwindconnection-customer"
 databaseConnectString: ""
 sharedSecretsEnabled: false
 
